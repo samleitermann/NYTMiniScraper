@@ -5,11 +5,11 @@ A personal tracker for my [NYT Mini Crossword](https://www.nytimes.com/crossword
 A Rust binary scrapes solve history from the NYT API and writes it to a CSV file. A Python script then reads the CSV and generates a rolling-average trend chart, which is committed back to this repo daily via GitHub Actions.
 
 <!-- last-run:start -->
-**Last updated:** 2026-06-05 at 13:41 UTC
+**Last updated:** 2026-06-06 at 12:01 UTC
 <!-- last-run:end -->
 
 <!-- latest-solve:start -->
-**Most recent solve:** 2026-06-04 (Thu) — 43s
+**Most recent solve:** 2026-06-05 (Fri) — 21s
 <!-- latest-solve:end -->
 
 <!-- crossword-graph:start -->
