@@ -3883,3 +3883,4 @@ date,puzzle_id,weekday,solve_time_secs,opened_unix,solved_unix,cheated
 2026-08-17,24363,Mon,,,,false
 2026-08-18,24412,Tue,,,,false
 2026-08-19,24268,Wed,,,,false
+2026-08-20,24415,Thu,,,,false
